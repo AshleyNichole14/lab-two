@@ -1,0 +1,58 @@
+{
+	"name": [
+		"Madison",
+		"Stephanie",
+		"Jessica",
+		"Ashley",
+		"Nichole",
+		"Casey"
+	],
+	"occupation": [
+		"receptionist",
+		"dentist",
+		"nurse",
+		"analyst",
+		"cosmetologist",
+		"librarian"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #epidemic# would #happen#! You can't #believe# the #horror#!"
+	],
+	"always": [
+		"consistently",
+		"regularly",
+		"continually",
+		"endlessly",
+		"continuously",
+		"habitually"
+	],
+	"expecting": [
+		"awaiting",
+		"expecting",
+		"imagining",
+		"anticipating",
+		"predicting"
+	],
+	"epidemic": [
+		"outbreak",
+		"pandemic",
+		"eruption"
+	],
+	"happen": [
+		"occur",
+		"erupt",
+		"transpire",
+		"materialize"
+	],
+	"believe": [
+		"imagine",
+		"fathom",
+		"guess"
+	],
+	"horror": [
+		"horror",
+		"terror",
+		"fright",
+		"panic"
+	]
+}
